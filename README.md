@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Richard 
+- 👀 I’m interested in reading, ganming and of course coding
+- 🌱 I’m currently learning React
+- 💞️ I’m not really looking to collaborate on at the moment
+- 📫 How to reach me through LinkedIn at https://www.linkedin.com/in/richard-paterson-07a942226/
