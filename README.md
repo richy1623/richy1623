@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richard 
 - 👀 I’m interested in reading, gaming and of course coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C# and Godot
 - 💞️ I’m not really looking to collaborate on at the moment
 - 📫 How to reach me through LinkedIn at https://www.linkedin.com/in/richard-paterson-07a942226/
